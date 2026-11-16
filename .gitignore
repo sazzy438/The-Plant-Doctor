@@ -8,3 +8,4 @@ artifacts/splits/*.csv
 flagged/
 .gradio/
 *.zip
+setup_log.txt
