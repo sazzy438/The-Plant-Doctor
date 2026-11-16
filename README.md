@@ -108,6 +108,8 @@ This folder is already a valid Gradio Space (the YAML header at the top of this 
 * Free/CPU Basic Spaces go to sleep after inactivity (currently 48 h) and wake automatically when visited (first load then takes ~1 min).
 * Paid upgrades (CPU Upgrade ≈ US$0.03/h, T4 GPU ≈ US$0.40/h) are not needed for this app.
 
+**If the Space creation page only offers "Static" (Gradio and Docker locked):** your account is not yet eligible for ZeroGPU Spaces (verified email and an account older than 30 days are required). Wait until the account is old enough and try again. For a demo link in the meantime, open `notebooks/demo_colab.ipynb` in Google Colab and run all cells: it prints a temporary public `*.gradio.live` link that works while the notebook stays open.
+
 Nothing in this project pays for anything or stores credentials. Decide which option you want before creating the Space.
 
 **Steps**
