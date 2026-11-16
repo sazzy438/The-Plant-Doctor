@@ -1,0 +1,8 @@
+{
+  "architecture": "efficientnet_b0",
+  "pretrained_weights": "torchvision EfficientNet_B0_Weights.IMAGENET1K_V1",
+  "num_classes": 38,
+  "classifier": "Dropout(0.2) -> Linear(1280, num_classes)",
+  "input_size": 224,
+  "gradcam_target_layer": "features[-1] (last conv block, 7x7x1280)"
+}

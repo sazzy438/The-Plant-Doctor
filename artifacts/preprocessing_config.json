@@ -1,0 +1,25 @@
+{
+  "input_size": [
+    224,
+    224
+  ],
+  "color_space": "RGB",
+  "resize": "direct resize to input_size (bilinear)",
+  "normalize_mean": [
+    0.485,
+    0.456,
+    0.406
+  ],
+  "normalize_std": [
+    0.229,
+    0.224,
+    0.225
+  ],
+  "train_augmentation": [
+    "RandomResizedCrop(scale 0.65-1.0, ratio 0.85-1.18)",
+    "RandomHorizontalFlip",
+    "RandomVerticalFlip",
+    "RandomRotation(20 deg)",
+    "ColorJitter(brightness 0.25, contrast 0.25, saturation 0.2, hue 0.02)"
+  ]
+}

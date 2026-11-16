@@ -1,0 +1,1 @@
+Sample images are from the PlantVillage dataset test split (Hughes & Salathé 2015; Mohanty et al. 2016), CC BY-SA 3.0, via https://huggingface.co/datasets/mohanty/PlantVillage. They were not used for training.

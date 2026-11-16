@@ -1,0 +1,1551 @@
+{
+  "_meta": {
+    "version": "1.0",
+    "disclaimer": "This information is general educational material compiled from publicly available agricultural extension references. It is not a diagnosis. Confirm any suspected disease with a plant diagnostic laboratory or extension specialist before taking action.",
+    "sources_note": "Entries were compiled from general plant-pathology knowledge as published by the land-grant university extension services and professional bodies listed under each class. URLs point to each organisation's plant-disease resource portal rather than to individual pages, because page addresses change frequently. Chemical control is deliberately not prescribed; consult local, current recommendations and product labels.",
+    "information_confidence_levels": {
+      "well-documented": "widely described in extension literature",
+      "limited": "fewer published sources; verify locally",
+      "general": "healthy-plant care guidance"
+    }
+  },
+  "classes": {
+    "Apple___Apple_scab": {
+      "common_name": "Apple scab",
+      "scientific_name": "Venturia inaequalis",
+      "pathogen_type": "fungus",
+      "crop": "Apple",
+      "description": "Apple scab is the most common fungal disease of apple in cool, moist growing regions. It attacks leaves, fruit and sometimes twigs, and heavy infections cause early leaf drop and unmarketable fruit.",
+      "symptoms": [
+        "Olive-green to dark brown spots with a velvety, feathery margin on leaves, usually on the upper surface first",
+        "Spots darken and may merge; infected leaves can curl, yellow and fall prematurely",
+        "On fruit: rough, corky, dark 'scab' lesions that may crack as the fruit grows"
+      ],
+      "environmental_factors": [
+        "Cool, wet spring weather with extended leaf wetness during bud break and early leaf growth",
+        "Spores are released from fallen, infected leaves of the previous season during rain",
+        "Dense, poorly ventilated canopies dry slowly and favour infection"
+      ],
+      "prevention": [
+        "Plant scab-resistant cultivars where available",
+        "Rake up and destroy (or shred and compost thoroughly) fallen leaves in autumn to reduce overwintering inoculum",
+        "Prune to open the canopy and speed leaf drying; avoid overhead irrigation",
+        "Protective fungicide programmes exist and are timed from green tip; follow local extension guidance and product labels"
+      ],
+      "next_steps": [
+        "Compare lesions on several leaves and on fruit; scab is often confirmed by the combination",
+        "Contact your local extension service or a diagnostic lab to confirm and to obtain a locally appropriate management schedule",
+        "Record first appearance dates to improve timing next season"
+      ],
+      "references": [
+        {
+          "name": "Cornell University – Plant Disease Diagnostic Clinic / Vegetable MD Online",
+          "url": "https://www.vegetables.cornell.edu/pest-management/disease-factsheets/"
+        },
+        {
+          "name": "University of Minnesota Extension – Plant diseases",
+          "url": "https://extension.umn.edu/plant-diseases"
+        },
+        {
+          "name": "Penn State Extension – Plant disease fact sheets",
+          "url": "https://extension.psu.edu/"
+        }
+      ],
+      "information_confidence": "well-documented"
+    },
+    "Apple___Black_rot": {
+      "common_name": "Black rot (frogeye leaf spot)",
+      "scientific_name": "Botryosphaeria obtusa (Diplodia seriata)",
+      "pathogen_type": "fungus",
+      "crop": "Apple",
+      "description": "Black rot affects apple leaves (as 'frogeye leaf spot'), fruit (black rot) and branches (cankers). The fungus survives in dead wood, cankers and mummified fruit.",
+      "symptoms": [
+        "Leaves: small purple specks that enlarge into roughly circular brown spots with a purple margin, often with a lighter 'frog-eye' centre",
+        "Fruit: brown to black rot, frequently starting at the calyx end, with concentric dark rings; fruit may shrivel into mummies",
+        "Branches: sunken, cracked cankers on limbs, often on wood weakened by fire blight or winter injury"
+      ],
+      "environmental_factors": [
+        "Warm, wet weather during the growing season",
+        "Infection usually enters through wounds, pruning cuts or stressed tissue",
+        "Dead wood, old cankers and mummified fruit left in the orchard provide spores"
+      ],
+      "prevention": [
+        "Remove and destroy dead wood, cankered limbs and mummified fruit; prune out fire-blight-killed tissue",
+        "Maintain tree vigour and avoid wounding bark",
+        "Fungicides used for scab provide partial protection; consult local recommendations"
+      ],
+      "next_steps": [
+        "Inspect limbs for cankers and the orchard floor for mummified fruit",
+        "Confirm with an extension specialist; leaf symptoms can resemble other leaf spots"
+      ],
+      "references": [
+        {
+          "name": "Cornell University – Plant Disease Diagnostic Clinic / Vegetable MD Online",
+          "url": "https://www.vegetables.cornell.edu/pest-management/disease-factsheets/"
+        },
+        {
+          "name": "University of Minnesota Extension – Plant diseases",
+          "url": "https://extension.umn.edu/plant-diseases"
+        },
+        {
+          "name": "Penn State Extension – Plant disease fact sheets",
+          "url": "https://extension.psu.edu/"
+        }
+      ],
+      "information_confidence": "well-documented"
+    },
+    "Apple___Cedar_apple_rust": {
+      "common_name": "Cedar-apple rust",
+      "scientific_name": "Gymnosporangium juniperi-virginianae",
+      "pathogen_type": "fungus (requires juniper/red-cedar alternate host)",
+      "crop": "Apple",
+      "description": "Cedar-apple rust needs two hosts: it overwinters as galls on junipers (eastern red cedar) and infects apple leaves and fruit in spring. It cannot spread from apple to apple.",
+      "symptoms": [
+        "Bright yellow to orange spots on the upper leaf surface, often with a reddish border",
+        "Tiny black dots (spermogonia) form in the spots; later, small tube-like structures appear on the leaf underside",
+        "Severe infection causes leaf yellowing and drop; fruit can show similar orange lesions"
+      ],
+      "environmental_factors": [
+        "Spring rains trigger spore release from orange, gelatinous galls on nearby junipers",
+        "Spores travel hundreds of metres or more on the wind",
+        "Wet leaves for several hours at moderate temperatures favour infection"
+      ],
+      "prevention": [
+        "Plant resistant apple cultivars",
+        "Remove nearby junipers/red cedars where practical, or remove galls from them before spring",
+        "Protective fungicides timed from pink bud through the early cover sprays are used in commercial orchards; follow local guidance"
+      ],
+      "next_steps": [
+        "Look for galls on junipers within a few hundred metres",
+        "Confirm with your extension service, especially before any fungicide decisions"
+      ],
+      "references": [
+        {
+          "name": "Cornell University – Plant Disease Diagnostic Clinic / Vegetable MD Online",
+          "url": "https://www.vegetables.cornell.edu/pest-management/disease-factsheets/"
+        },
+        {
+          "name": "University of Minnesota Extension – Plant diseases",
+          "url": "https://extension.umn.edu/plant-diseases"
+        },
+        {
+          "name": "Ohio State University Extension (Ohioline)",
+          "url": "https://ohioline.osu.edu/"
+        }
+      ],
+      "information_confidence": "well-documented"
+    },
+    "Apple___healthy": {
+      "common_name": "Healthy leaf",
+      "scientific_name": null,
+      "pathogen_type": "none",
+      "crop": "Apple",
+      "description": "The model found no visual pattern matching one of the apple diseases it was trained on. Apple leaves are normally medium to dark green, slightly glossy, with finely toothed margins.",
+      "symptoms": [
+        "Uniform leaf colour appropriate for the crop and leaf age",
+        "No spots, lesions, powdery coatings, mottling or distortion",
+        "No webbing, insect damage or scorched margins"
+      ],
+      "environmental_factors": [
+        "Good light, balanced nutrition and even watering keep foliage healthy",
+        "Overcrowding, prolonged leaf wetness and stress make plants more vulnerable to disease"
+      ],
+      "prevention": [
+        "Prune annually for an open, well-lit canopy",
+        "Clean up fallen leaves and fruit in autumn",
+        "Choose disease-resistant cultivars when planting",
+        "Avoid overhead irrigation and over-fertilising with nitrogen"
+      ],
+      "next_steps": [
+        "Keep monitoring regularly; many diseases start on lower or inner leaves",
+        "Photograph both leaf surfaces if anything changes",
+        "Remember that a healthy-looking leaf does not guarantee the whole plant is disease-free"
+      ],
+      "references": [
+        {
+          "name": "Cornell University – Plant Disease Diagnostic Clinic / Vegetable MD Online",
+          "url": "https://www.vegetables.cornell.edu/pest-management/disease-factsheets/"
+        },
+        {
+          "name": "University of Minnesota Extension – Plant diseases",
+          "url": "https://extension.umn.edu/plant-diseases"
+        }
+      ],
+      "information_confidence": "general"
+    },
+    "Blueberry___healthy": {
+      "common_name": "Healthy leaf",
+      "scientific_name": null,
+      "pathogen_type": "none",
+      "crop": "Blueberry",
+      "description": "The model found no visual pattern matching one of the blueberry diseases it was trained on. Healthy blueberry leaves are smooth, oval and green, turning red in autumn.",
+      "symptoms": [
+        "Uniform leaf colour appropriate for the crop and leaf age",
+        "No spots, lesions, powdery coatings, mottling or distortion",
+        "No webbing, insect damage or scorched margins"
+      ],
+      "environmental_factors": [
+        "Good light, balanced nutrition and even watering keep foliage healthy",
+        "Overcrowding, prolonged leaf wetness and stress make plants more vulnerable to disease"
+      ],
+      "prevention": [
+        "Maintain acidic soil (pH about 4.5-5.5) and organic mulch",
+        "Ensure good drainage and consistent moisture",
+        "Prune out old, weak or diseased canes each year",
+        "Buy certified, virus-tested planting stock"
+      ],
+      "next_steps": [
+        "Keep monitoring regularly; many diseases start on lower or inner leaves",
+        "Photograph both leaf surfaces if anything changes",
+        "Remember that a healthy-looking leaf does not guarantee the whole plant is disease-free"
+      ],
+      "references": [
+        {
+          "name": "Michigan State University Extension",
+          "url": "https://www.canr.msu.edu/extension/"
+        },
+        {
+          "name": "University of Minnesota Extension – Plant diseases",
+          "url": "https://extension.umn.edu/plant-diseases"
+        }
+      ],
+      "information_confidence": "general"
+    },
+    "Cherry_(including_sour)___Powdery_mildew": {
+      "common_name": "Powdery mildew of cherry",
+      "scientific_name": "Podosphaera clandestina",
+      "pathogen_type": "fungus",
+      "crop": "Cherry (sweet and sour)",
+      "description": "Powdery mildew produces a white, powdery fungal growth on cherry leaves, shoots and sometimes fruit. Young, actively growing tissue is most susceptible.",
+      "symptoms": [
+        "White to grey powdery patches on leaves, often starting on the undersides or on young terminal leaves",
+        "Infected leaves may curl, pucker or become distorted",
+        "On fruit: circular whitish patches, later rough or russeted areas"
+      ],
+      "environmental_factors": [
+        "Warm days and cool nights with high humidity; unlike many fungi it does not need free water on the leaf",
+        "Shaded, dense canopies and vigorous succulent growth increase susceptibility",
+        "The fungus overwinters in buds and on fallen leaves"
+      ],
+      "prevention": [
+        "Prune for light penetration and airflow",
+        "Avoid excessive nitrogen that promotes soft growth",
+        "Manage irrigation so leaves do not stay humid; drip irrigation is preferable",
+        "Sulfur and other protectant products are commonly used in orchards; consult local extension guidance and labels"
+      ],
+      "next_steps": [
+        "Check young terminal leaves and fruit for powdery growth",
+        "Confirm with an extension service if the orchard is commercial or the disease is spreading"
+      ],
+      "references": [
+        {
+          "name": "Washington State University Extension – Hortsense",
+          "url": "https://hortsense.cahnrs.wsu.edu/"
+        },
+        {
+          "name": "UC Statewide Integrated Pest Management Program (UC IPM)",
+          "url": "https://ipm.ucanr.edu/"
+        },
+        {
+          "name": "Penn State Extension – Plant disease fact sheets",
+          "url": "https://extension.psu.edu/"
+        }
+      ],
+      "information_confidence": "well-documented"
+    },
+    "Cherry_(including_sour)___healthy": {
+      "common_name": "Healthy leaf",
+      "scientific_name": null,
+      "pathogen_type": "none",
+      "crop": "Cherry (sweet and sour)",
+      "description": "The model found no visual pattern matching one of the cherry (sweet and sour) diseases it was trained on. Healthy cherry leaves are glossy, dark green and pointed with serrated edges.",
+      "symptoms": [
+        "Uniform leaf colour appropriate for the crop and leaf age",
+        "No spots, lesions, powdery coatings, mottling or distortion",
+        "No webbing, insect damage or scorched margins"
+      ],
+      "environmental_factors": [
+        "Good light, balanced nutrition and even watering keep foliage healthy",
+        "Overcrowding, prolonged leaf wetness and stress make plants more vulnerable to disease"
+      ],
+      "prevention": [
+        "Prune in dry weather to reduce infection of cuts",
+        "Keep the canopy open and well lit",
+        "Clean up fallen leaves and fruit",
+        "Water at the base rather than over the foliage"
+      ],
+      "next_steps": [
+        "Keep monitoring regularly; many diseases start on lower or inner leaves",
+        "Photograph both leaf surfaces if anything changes",
+        "Remember that a healthy-looking leaf does not guarantee the whole plant is disease-free"
+      ],
+      "references": [
+        {
+          "name": "Washington State University Extension – Hortsense",
+          "url": "https://hortsense.cahnrs.wsu.edu/"
+        },
+        {
+          "name": "UC Statewide Integrated Pest Management Program (UC IPM)",
+          "url": "https://ipm.ucanr.edu/"
+        }
+      ],
+      "information_confidence": "general"
+    },
+    "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+      "common_name": "Gray leaf spot",
+      "scientific_name": "Cercospora zeae-maydis (also C. zeina)",
+      "pathogen_type": "fungus",
+      "crop": "Corn (maize)",
+      "description": "Gray leaf spot is a residue-borne fungal disease that can cause significant yield loss when it reaches the upper leaves before grain fill.",
+      "symptoms": [
+        "Small tan spots that elongate into narrow, rectangular grey to tan lesions bounded by the leaf veins",
+        "Lesions may be 1-6 cm long and can merge to blight whole leaves",
+        "Starts on the lower leaves and moves upward"
+      ],
+      "environmental_factors": [
+        "Warm temperatures with high humidity and long periods of leaf wetness or dew",
+        "Continuous corn and reduced tillage leave infected residue on the soil surface",
+        "Low-lying fields with poor air movement"
+      ],
+      "prevention": [
+        "Choose hybrids with good gray leaf spot resistance ratings",
+        "Rotate away from corn and manage residue to reduce inoculum",
+        "Fungicide applications are sometimes economic around tasselling in high-risk fields; use regional scouting thresholds"
+      ],
+      "next_steps": [
+        "Scout lower leaves before tasselling and note the proportion of leaf area affected",
+        "Consult extension or an agronomist about thresholds for your hybrid and growth stage"
+      ],
+      "references": [
+        {
+          "name": "Crop Protection Network (land-grant universities)",
+          "url": "https://cropprotectionnetwork.org/"
+        },
+        {
+          "name": "Iowa State University Extension – Integrated Crop Management",
+          "url": "https://crops.extension.iastate.edu/"
+        },
+        {
+          "name": "Purdue Extension – Plant & Pest Diagnostic Laboratory",
+          "url": "https://extension.purdue.edu/"
+        }
+      ],
+      "information_confidence": "well-documented"
+    },
+    "Corn_(maize)___Common_rust_": {
+      "common_name": "Common rust",
+      "scientific_name": "Puccinia sorghi",
+      "pathogen_type": "fungus",
+      "crop": "Corn (maize)",
+      "description": "Common rust appears on corn leaves as rusty pustules. It rarely causes economic loss in field corn but can be important in sweet corn and seed production.",
+      "symptoms": [
+        "Small, oval to elongated cinnamon-brown pustules on both leaf surfaces that rupture the leaf skin",
+        "Pustules turn dark brown to black late in the season",
+        "Severe cases produce yellowing and premature leaf death"
+      ],
+      "environmental_factors": [
+        "Cool to moderate temperatures (roughly 16-25 °C) with high humidity and dew",
+        "Spores are carried long distances by wind from regions where the fungus survives year-round",
+        "Does not overwinter in cold climates on residue"
+      ],
+      "prevention": [
+        "Plant resistant hybrids, particularly for sweet corn",
+        "Scout early; fungicide is usually only justified in sweet corn or seed fields with early, heavy infection",
+        "Avoid late plantings in regions where rust arrives late in the season"
+      ],
+      "next_steps": [
+        "Distinguish from southern rust, which has smaller, lighter pustules mostly on the upper surface and is more damaging",
+        "Ask an extension agronomist whether treatment is warranted for your crop type"
+      ],
+      "references": [
+        {
+          "name": "Crop Protection Network (land-grant universities)",
+          "url": "https://cropprotectionnetwork.org/"
+        },
+        {
+          "name": "Iowa State University Extension – Integrated Crop Management",
+          "url": "https://crops.extension.iastate.edu/"
+        },
+        {
+          "name": "Purdue Extension – Plant & Pest Diagnostic Laboratory",
+          "url": "https://extension.purdue.edu/"
+        }
+      ],
+      "information_confidence": "well-documented"
+    },
+    "Corn_(maize)___Northern_Leaf_Blight": {
+      "common_name": "Northern corn leaf blight",
+      "scientific_name": "Exserohilum turcicum (teleomorph Setosphaeria turcica)",
+      "pathogen_type": "fungus",
+      "crop": "Corn (maize)",
+      "description": "Northern leaf blight produces long, cigar-shaped lesions. Yield loss is greatest when the disease develops on upper leaves before or during silking.",
+      "symptoms": [
+        "Long (2-15 cm), elliptical or 'cigar-shaped' grey-green to tan lesions not limited by leaf veins",
+        "Lesions may show dark sporulation in humid weather and can merge to kill large leaf areas",
+        "Usually begins on lower leaves"
+      ],
+      "environmental_factors": [
+        "Moderate temperatures (about 18-27 °C) and extended leaf wetness from dew, rain or fog",
+        "Residue from previous corn crops is the primary inoculum source",
+        "Continuous corn and minimum tillage increase risk"
+      ],
+      "prevention": [
+        "Select hybrids with resistance (including Ht resistance genes effective against local races)",
+        "Rotate crops and manage residue",
+        "Foliar fungicides may be used in high-risk fields near tasselling; follow regional recommendations"
+      ],
+      "next_steps": [
+        "Scout from about V8 onward, especially in fields with corn residue",
+        "Confirm with extension; lesions can be confused with other leaf blights"
+      ],
+      "references": [
+        {
+          "name": "Crop Protection Network (land-grant universities)",
+          "url": "https://cropprotectionnetwork.org/"
+        },
+        {
+          "name": "Iowa State University Extension – Integrated Crop Management",
+          "url": "https://crops.extension.iastate.edu/"
+        },
+        {
+          "name": "Purdue Extension – Plant & Pest Diagnostic Laboratory",
+          "url": "https://extension.purdue.edu/"
+        }
+      ],
+      "information_confidence": "well-documented"
+    },
+    "Corn_(maize)___healthy": {
+      "common_name": "Healthy leaf",
+      "scientific_name": null,
+      "pathogen_type": "none",
+      "crop": "Corn (maize)",
+      "description": "The model found no visual pattern matching one of the corn (maize) diseases it was trained on. Healthy corn leaves are long, uniformly green and free of lesions or pustules.",
+      "symptoms": [
+        "Uniform leaf colour appropriate for the crop and leaf age",
+        "No spots, lesions, powdery coatings, mottling or distortion",
+        "No webbing, insect damage or scorched margins"
+      ],
+      "environmental_factors": [
+        "Good light, balanced nutrition and even watering keep foliage healthy",
+        "Overcrowding, prolonged leaf wetness and stress make plants more vulnerable to disease"
+      ],
+      "prevention": [
+        "Rotate crops and manage residue to reduce leaf-disease inoculum",
+        "Choose hybrids with strong disease resistance packages",
+        "Maintain balanced fertility; nitrogen deficiency can mimic disease",
+        "Scout regularly from mid-season"
+      ],
+      "next_steps": [
+        "Keep monitoring regularly; many diseases start on lower or inner leaves",
+        "Photograph both leaf surfaces if anything changes",
+        "Remember that a healthy-looking leaf does not guarantee the whole plant is disease-free"
+      ],
+      "references": [
+        {
+          "name": "Crop Protection Network (land-grant universities)",
+          "url": "https://cropprotectionnetwork.org/"
+        },
+        {
+          "name": "Iowa State University Extension – Integrated Crop Management",
+          "url": "https://crops.extension.iastate.edu/"
+        }
+      ],
+      "information_confidence": "general"
+    },
+    "Grape___Black_rot": {
+      "common_name": "Black rot of grape",
+      "scientific_name": "Guignardia bidwellii (anamorph Phyllosticta ampelicida)",
+      "pathogen_type": "fungus",
+      "crop": "Grape",
+      "description": "Black rot is one of the most damaging grape diseases in warm, humid regions. Leaf spots are the early sign; fruit infection destroys the crop by turning berries into hard black mummies.",
+      "symptoms": [
+        "Small, roughly circular tan to reddish-brown leaf spots with a darker margin",
+        "Tiny black dots (pycnidia) develop inside the leaf spots, often in a ring",
+        "Berries develop a light spot, then rot, shrivel and harden into black 'mummies' that stay attached to the cluster"
+      ],
+      "environmental_factors": [
+        "Warm, wet weather; infection needs leaf wetness for several hours",
+        "Mummified berries left on the vine or the ground release spores in spring",
+        "Dense canopies that dry slowly"
+      ],
+      "prevention": [
+        "Remove mummies and infected canes during dormant pruning; drop them away from the vineyard",
+        "Manage the canopy (shoot positioning, leaf removal) for air movement",
+        "Fungicide programmes from early shoot growth to a few weeks after bloom are used commercially; follow local guidance"
+      ],
+      "next_steps": [
+        "Check clusters for shrivelled, black berries",
+        "Consult an extension viticulture specialist for a locally timed programme"
+      ],
+      "references": [
+        {
+          "name": "Cornell University – Plant Disease Diagnostic Clinic / Vegetable MD Online",
+          "url": "https://www.vegetables.cornell.edu/pest-management/disease-factsheets/"
+        },
+        {
+          "name": "Ohio State University Extension (Ohioline)",
+          "url": "https://ohioline.osu.edu/"
+        },
+        {
+          "name": "Penn State Extension – Plant disease fact sheets",
+          "url": "https://extension.psu.edu/"
+        }
+      ],
+      "information_confidence": "well-documented"
+    },
+    "Grape___Esca_(Black_Measles)": {
+      "common_name": "Esca (black measles)",
+      "scientific_name": "Complex of fungi incl. Phaeomoniella chlamydospora, Phaeoacremonium spp. and Fomitiporia spp.",
+      "pathogen_type": "fungus (trunk disease complex)",
+      "crop": "Grape",
+      "description": "Esca is a grapevine trunk disease complex. Fungi colonise the wood through pruning wounds; foliar symptoms appear years later and can vary from season to season.",
+      "symptoms": [
+        "Interveinal yellowing (white cultivars) or reddening (red cultivars) that dries to form 'tiger-stripe' patterns between the veins",
+        "Dark spots or speckling on berries ('measles')",
+        "Sudden wilting and collapse of all or part of a vine in hot weather ('apoplexy')"
+      ],
+      "environmental_factors": [
+        "Infection occurs mainly through fresh pruning wounds during wet weather",
+        "Older vines and vines with large pruning cuts are more affected",
+        "Symptoms are often worse in hot, dry summers following wet springs"
+      ],
+      "prevention": [
+        "Prune late in the dormant season and in dry weather; protect large wounds with registered wound protectants where available",
+        "Remove and destroy dead wood and severely affected vines",
+        "Use clean nursery stock and avoid unnecessary large cuts"
+      ],
+      "next_steps": [
+        "Cut into the trunk of a declining vine to look for dark streaking or soft, spongy wood (a specialist can help)",
+        "There is no curative treatment once the wood is infected; discuss remedial surgery or replacement with an extension viticulturist"
+      ],
+      "references": [
+        {
+          "name": "UC Statewide Integrated Pest Management Program (UC IPM)",
+          "url": "https://ipm.ucanr.edu/"
+        },
+        {
+          "name": "Cornell University – Plant Disease Diagnostic Clinic / Vegetable MD Online",
+          "url": "https://www.vegetables.cornell.edu/pest-management/disease-factsheets/"
+        },
+        {
+          "name": "American Phytopathological Society – Plant Disease lessons and compendia",
+          "url": "https://www.apsnet.org/edcenter/"
+        }
+      ],
+      "information_confidence": "well-documented"
+    },
+    "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+      "common_name": "Isariopsis leaf spot (leaf blight)",
+      "scientific_name": "Pseudocercospora vitis (syn. Isariopsis clavispora)",
+      "pathogen_type": "fungus",
+      "crop": "Grape",
+      "description": "A late-season fungal leaf spot of grape. It is less studied than black rot or downy mildew, and published management guidance is limited.",
+      "symptoms": [
+        "Irregular to angular dark brown to black spots on the leaf, often with a lighter centre as they age",
+        "A greyish fungal growth may be visible on the lower surface of spots in humid weather",
+        "Severe infections cause yellowing and early leaf drop late in the season"
+      ],
+      "environmental_factors": [
+        "Warm, humid conditions late in the growing season",
+        "Dense canopies and poor air movement",
+        "The fungus survives on fallen leaves"
+      ],
+      "prevention": [
+        "Canopy management to improve airflow and spray coverage",
+        "Remove and destroy fallen leaves",
+        "Fungicides applied for other grape diseases may give incidental control; specific recommendations are limited—ask local extension"
+      ],
+      "next_steps": [
+        "Rule out downy mildew (which shows white, fluffy growth on the underside) and black rot",
+        "Submit a sample to a diagnostic laboratory for confirmation; information on this disease is less complete than for others"
+      ],
+      "references": [
+        {
+          "name": "American Phytopathological Society – Plant Disease lessons and compendia",
+          "url": "https://www.apsnet.org/edcenter/"
+        },
+        {
+          "name": "Cornell University – Plant Disease Diagnostic Clinic / Vegetable MD Online",
+          "url": "https://www.vegetables.cornell.edu/pest-management/disease-factsheets/"
+        }
+      ],
+      "information_confidence": "limited"
+    },
+    "Grape___healthy": {
+      "common_name": "Healthy leaf",
+      "scientific_name": null,
+      "pathogen_type": "none",
+      "crop": "Grape",
+      "description": "The model found no visual pattern matching one of the grape diseases it was trained on. Healthy grape leaves are green, lobed and free of spots, stripes or powdery coatings.",
+      "symptoms": [
+        "Uniform leaf colour appropriate for the crop and leaf age",
+        "No spots, lesions, powdery coatings, mottling or distortion",
+        "No webbing, insect damage or scorched margins"
+      ],
+      "environmental_factors": [
+        "Good light, balanced nutrition and even watering keep foliage healthy",
+        "Overcrowding, prolonged leaf wetness and stress make plants more vulnerable to disease"
+      ],
+      "prevention": [
+        "Position shoots and remove leaves around clusters for airflow",
+        "Remove mummified fruit and dead wood each winter",
+        "Prune in dry weather to protect wounds",
+        "Follow a regional disease-monitoring calendar"
+      ],
+      "next_steps": [
+        "Keep monitoring regularly; many diseases start on lower or inner leaves",
+        "Photograph both leaf surfaces if anything changes",
+        "Remember that a healthy-looking leaf does not guarantee the whole plant is disease-free"
+      ],
+      "references": [
+        {
+          "name": "Cornell University – Plant Disease Diagnostic Clinic / Vegetable MD Online",
+          "url": "https://www.vegetables.cornell.edu/pest-management/disease-factsheets/"
+        },
+        {
+          "name": "UC Statewide Integrated Pest Management Program (UC IPM)",
+          "url": "https://ipm.ucanr.edu/"
+        }
+      ],
+      "information_confidence": "general"
+    },
+    "Orange___Haunglongbing_(Citrus_greening)": {
+      "common_name": "Huanglongbing (HLB, citrus greening)",
+      "scientific_name": "'Candidatus Liberibacter asiaticus' (also Ca. L. americanus, Ca. L. africanus)",
+      "pathogen_type": "bacterium (phloem-limited), spread by the Asian citrus psyllid",
+      "crop": "Orange (citrus)",
+      "description": "HLB is the most serious citrus disease worldwide. The bacterium is spread by psyllid insects and by grafting infected budwood. There is no cure; infected trees decline and produce unusable fruit.",
+      "symptoms": [
+        "Blotchy, asymmetrical yellow mottling of leaves (unlike nutrient deficiencies, which are usually symmetrical across the midrib)",
+        "Yellow shoots scattered through the canopy; thickened, upright leaves with corky veins",
+        "Small, lopsided fruit that stay partly green, with bitter juice and aborted seeds; twig dieback and tree decline"
+      ],
+      "environmental_factors": [
+        "Presence of the Asian citrus psyllid (Diaphorina citri) or the African psyllid",
+        "Movement of infected plants or budwood",
+        "Warm climates where psyllid populations are high year-round"
+      ],
+      "prevention": [
+        "Buy only certified, disease-free nursery trees",
+        "Monitor and manage psyllids; follow regional area-wide programmes",
+        "Remove confirmed infected trees promptly to protect neighbours",
+        "Do not move citrus plant material out of quarantine areas"
+      ],
+      "next_steps": [
+        "HLB is a regulated (quarantine) disease in many countries and regions: report suspected trees to your plant-protection authority or extension office",
+        "Laboratory (PCR) testing is required for confirmation; visual symptoms alone are not definitive"
+      ],
+      "references": [
+        {
+          "name": "USDA APHIS – Citrus greening (Huanglongbing)",
+          "url": "https://www.aphis.usda.gov/plant-pests-diseases/citrus-greening"
+        },
+        {
+          "name": "University of Florida IFAS Extension (EDIS)",
+          "url": "https://edis.ifas.ufl.edu/"
+        },
+        {
+          "name": "UC Statewide Integrated Pest Management Program (UC IPM)",
+          "url": "https://ipm.ucanr.edu/"
+        }
+      ],
+      "information_confidence": "well-documented"
+    },
+    "Peach___Bacterial_spot": {
+      "common_name": "Bacterial spot of peach",
+      "scientific_name": "Xanthomonas arboricola pv. pruni",
+      "pathogen_type": "bacterium",
+      "crop": "Peach",
+      "description": "Bacterial spot affects peach leaves, twigs and fruit. It is hard to control once established and is most severe in warm, wet, windy seasons and on sandy sites.",
+      "symptoms": [
+        "Small, angular, water-soaked leaf spots that turn purple-brown; the centres often fall out leaving a 'shot-hole' appearance",
+        "Spots concentrate near the leaf tip and margins; infected leaves yellow and drop, sometimes causing heavy defoliation",
+        "Fruit show small dark pits that can crack; twigs develop cankers"
+      ],
+      "environmental_factors": [
+        "Warm, wet weather with wind-driven rain spreads bacteria from twig cankers",
+        "Light, sandy soils and exposed, windy sites increase severity",
+        "Bacteria overwinter in twig cankers and leaf scars"
+      ],
+      "prevention": [
+        "Plant cultivars rated as less susceptible",
+        "Avoid windy, sandy sites or use windbreaks",
+        "Maintain balanced nutrition; stressed trees defoliate more readily",
+        "Copper- and antibiotic-based programmes are used in commercial orchards with strict timing and resistance concerns; follow local recommendations"
+      ],
+      "next_steps": [
+        "Check twigs for cankers and fruit for pitting to support the identification",
+        "Consult an extension fruit specialist; bacterial spot can be confused with fungal shot-hole"
+      ],
+      "references": [
+        {
+          "name": "Penn State Extension – Plant disease fact sheets",
+          "url": "https://extension.psu.edu/"
+        },
+        {
+          "name": "Cornell University – Plant Disease Diagnostic Clinic / Vegetable MD Online",
+          "url": "https://www.vegetables.cornell.edu/pest-management/disease-factsheets/"
+        },
+        {
+          "name": "University of Kentucky – Plant Pathology Extension",
+          "url": "https://plantpathology.ca.uky.edu/extension"
+        }
+      ],
+      "information_confidence": "well-documented"
+    },
+    "Peach___healthy": {
+      "common_name": "Healthy leaf",
+      "scientific_name": null,
+      "pathogen_type": "none",
+      "crop": "Peach",
+      "description": "The model found no visual pattern matching one of the peach diseases it was trained on. Healthy peach leaves are long, narrow, slightly folded along the midrib and glossy green.",
+      "symptoms": [
+        "Uniform leaf colour appropriate for the crop and leaf age",
+        "No spots, lesions, powdery coatings, mottling or distortion",
+        "No webbing, insect damage or scorched margins"
+      ],
+      "environmental_factors": [
+        "Good light, balanced nutrition and even watering keep foliage healthy",
+        "Overcrowding, prolonged leaf wetness and stress make plants more vulnerable to disease"
+      ],
+      "prevention": [
+        "Choose sites with good air drainage and avoid very sandy, windy locations",
+        "Prune for an open centre to speed drying",
+        "Remove mummified fruit and cankered twigs",
+        "Keep nutrition balanced"
+      ],
+      "next_steps": [
+        "Keep monitoring regularly; many diseases start on lower or inner leaves",
+        "Photograph both leaf surfaces if anything changes",
+        "Remember that a healthy-looking leaf does not guarantee the whole plant is disease-free"
+      ],
+      "references": [
+        {
+          "name": "Penn State Extension – Plant disease fact sheets",
+          "url": "https://extension.psu.edu/"
+        },
+        {
+          "name": "Cornell University – Plant Disease Diagnostic Clinic / Vegetable MD Online",
+          "url": "https://www.vegetables.cornell.edu/pest-management/disease-factsheets/"
+        }
+      ],
+      "information_confidence": "general"
+    },
+    "Pepper,_bell___Bacterial_spot": {
+      "common_name": "Bacterial spot of pepper",
+      "scientific_name": "Xanthomonas euvesicatoria and related species (X. vesicatoria, X. perforans, X. gardneri)",
+      "pathogen_type": "bacterium",
+      "crop": "Bell pepper",
+      "description": "Bacterial spot is a seed- and transplant-borne disease that spreads by splashing water. It causes leaf spots, defoliation and scabby fruit lesions, and is difficult to control once established.",
+      "symptoms": [
+        "Small water-soaked spots that become brown, sometimes with a yellow halo; spots may be angular and the centres may tear out",
+        "Leaves yellow and drop, exposing fruit to sunscald",
+        "Raised, rough, scabby spots on fruit"
+      ],
+      "environmental_factors": [
+        "Warm temperatures with rain, overhead irrigation or heavy dew",
+        "Introduced on infected seed or transplants; spread by splashing water, tools and workers handling wet plants",
+        "Survives on crop debris and volunteer plants"
+      ],
+      "prevention": [
+        "Use certified pathogen-free seed and healthy transplants",
+        "Rotate out of peppers and tomatoes for at least a year and remove crop debris",
+        "Avoid working with plants when wet and use drip irrigation",
+        "Resistant cultivars exist for some bacterial races; copper products are commonly used but resistance is widespread—seek local advice"
+      ],
+      "next_steps": [
+        "Inspect fruit for scabby spots to support the identification",
+        "Submit a sample to a diagnostic lab; several bacteria and fungi cause similar spots"
+      ],
+      "references": [
+        {
+          "name": "Cornell University – Plant Disease Diagnostic Clinic / Vegetable MD Online",
+          "url": "https://www.vegetables.cornell.edu/pest-management/disease-factsheets/"
+        },
+        {
+          "name": "University of Florida IFAS Extension (EDIS)",
+          "url": "https://edis.ifas.ufl.edu/"
+        },
+        {
+          "name": "UC Statewide Integrated Pest Management Program (UC IPM)",
+          "url": "https://ipm.ucanr.edu/"
+        }
+      ],
+      "information_confidence": "well-documented"
+    },
+    "Pepper,_bell___healthy": {
+      "common_name": "Healthy leaf",
+      "scientific_name": null,
+      "pathogen_type": "none",
+      "crop": "Bell pepper",
+      "description": "The model found no visual pattern matching one of the bell pepper diseases it was trained on. Healthy pepper leaves are smooth, glossy and deep green.",
+      "symptoms": [
+        "Uniform leaf colour appropriate for the crop and leaf age",
+        "No spots, lesions, powdery coatings, mottling or distortion",
+        "No webbing, insect damage or scorched margins"
+      ],
+      "environmental_factors": [
+        "Good light, balanced nutrition and even watering keep foliage healthy",
+        "Overcrowding, prolonged leaf wetness and stress make plants more vulnerable to disease"
+      ],
+      "prevention": [
+        "Start from clean seed and transplants",
+        "Use drip irrigation and mulch to reduce splash",
+        "Rotate with non-solanaceous crops",
+        "Give plants space for airflow"
+      ],
+      "next_steps": [
+        "Keep monitoring regularly; many diseases start on lower or inner leaves",
+        "Photograph both leaf surfaces if anything changes",
+        "Remember that a healthy-looking leaf does not guarantee the whole plant is disease-free"
+      ],
+      "references": [
+        {
+          "name": "Cornell University – Plant Disease Diagnostic Clinic / Vegetable MD Online",
+          "url": "https://www.vegetables.cornell.edu/pest-management/disease-factsheets/"
+        },
+        {
+          "name": "UC Statewide Integrated Pest Management Program (UC IPM)",
+          "url": "https://ipm.ucanr.edu/"
+        }
+      ],
+      "information_confidence": "general"
+    },
+    "Potato___Early_blight": {
+      "common_name": "Early blight",
+      "scientific_name": "Alternaria solani",
+      "pathogen_type": "fungus",
+      "crop": "Potato",
+      "description": "Early blight is a common fungal disease that affects older leaves first. Despite its name it usually appears mid to late season, especially on stressed or senescing plants.",
+      "symptoms": [
+        "Dark brown to black spots with concentric rings ('target' or 'bull's-eye' pattern), often surrounded by a yellow halo",
+        "Lesions begin on the lower, older leaves and progress upward",
+        "Severe infection causes leaf death and defoliation; tubers may show dark, sunken, corky lesions"
+      ],
+      "environmental_factors": [
+        "Warm temperatures (roughly 24-29 °C) with alternating wet and dry periods",
+        "Plants under stress from poor nutrition, drought or insect damage are more susceptible",
+        "The fungus survives in soil and crop debris"
+      ],
+      "prevention": [
+        "Rotate potatoes and tomatoes with unrelated crops for 2-3 years",
+        "Maintain balanced fertility and avoid water stress",
+        "Remove or bury infected debris after harvest",
+        "Protectant fungicide programmes are used commercially; consult regional forecasting guidance"
+      ],
+      "next_steps": [
+        "Compare with late blight: early blight lesions have concentric rings and dry edges, late blight lesions are larger and water-soaked",
+        "Consult extension if the disease is spreading up the plant before tuber bulking"
+      ],
+      "references": [
+        {
+          "name": "Cornell University – Plant Disease Diagnostic Clinic / Vegetable MD Online",
+          "url": "https://www.vegetables.cornell.edu/pest-management/disease-factsheets/"
+        },
+        {
+          "name": "University of Minnesota Extension – Plant diseases",
+          "url": "https://extension.umn.edu/plant-diseases"
+        },
+        {
+          "name": "UC Statewide Integrated Pest Management Program (UC IPM)",
+          "url": "https://ipm.ucanr.edu/"
+        }
+      ],
+      "information_confidence": "well-documented"
+    },
+    "Potato___Late_blight": {
+      "common_name": "Late blight",
+      "scientific_name": "Phytophthora infestans",
+      "pathogen_type": "oomycete (water mould)",
+      "crop": "Potato",
+      "description": "Late blight is the disease behind the Irish potato famine. It can destroy a crop within days in cool, wet weather and spreads rapidly between fields, so it is treated as a community-wide problem.",
+      "symptoms": [
+        "Large, irregular, pale to dark green water-soaked blotches that turn brown or black, often starting at leaf tips or edges",
+        "A white, fuzzy mould on the underside of lesions in humid conditions",
+        "Dark lesions on stems; tubers develop reddish-brown, granular rot under the skin"
+      ],
+      "environmental_factors": [
+        "Cool (10-25 °C), wet, humid weather with long leaf-wetness periods",
+        "Infected seed tubers, cull piles and volunteer potatoes are the main sources",
+        "Spores travel by wind and rain between fields"
+      ],
+      "prevention": [
+        "Plant certified disease-free seed tubers and destroy cull piles and volunteers",
+        "Choose cultivars with late blight resistance",
+        "Follow regional disease-forecasting systems and act early; protectant fungicides are the main commercial tool",
+        "Destroy infected foliage promptly and allow it to die before harvest to protect tubers"
+      ],
+      "next_steps": [
+        "Act quickly: confirm with your extension service or a diagnostic lab the same day",
+        "Inform neighbouring growers if confirmed; late blight spreads between farms and gardens",
+        "Remove and bag (do not compost) infected plants in home gardens"
+      ],
+      "references": [
+        {
+          "name": "Cornell University – Plant Disease Diagnostic Clinic / Vegetable MD Online",
+          "url": "https://www.vegetables.cornell.edu/pest-management/disease-factsheets/"
+        },
+        {
+          "name": "University of Minnesota Extension – Plant diseases",
+          "url": "https://extension.umn.edu/plant-diseases"
+        },
+        {
+          "name": "UC Statewide Integrated Pest Management Program (UC IPM)",
+          "url": "https://ipm.ucanr.edu/"
+        }
+      ],
+      "information_confidence": "well-documented"
+    },
+    "Potato___healthy": {
+      "common_name": "Healthy leaf",
+      "scientific_name": null,
+      "pathogen_type": "none",
+      "crop": "Potato",
+      "description": "The model found no visual pattern matching one of the potato diseases it was trained on. Healthy potato leaves are compound, mid-green and free of spots or wilting.",
+      "symptoms": [
+        "Uniform leaf colour appropriate for the crop and leaf age",
+        "No spots, lesions, powdery coatings, mottling or distortion",
+        "No webbing, insect damage or scorched margins"
+      ],
+      "environmental_factors": [
+        "Good light, balanced nutrition and even watering keep foliage healthy",
+        "Overcrowding, prolonged leaf wetness and stress make plants more vulnerable to disease"
+      ],
+      "prevention": [
+        "Use certified seed tubers",
+        "Rotate with non-solanaceous crops for 2-3 years",
+        "Hill soil to keep tubers covered and avoid water stress",
+        "Destroy volunteers and cull piles"
+      ],
+      "next_steps": [
+        "Keep monitoring regularly; many diseases start on lower or inner leaves",
+        "Photograph both leaf surfaces if anything changes",
+        "Remember that a healthy-looking leaf does not guarantee the whole plant is disease-free"
+      ],
+      "references": [
+        {
+          "name": "Cornell University – Plant Disease Diagnostic Clinic / Vegetable MD Online",
+          "url": "https://www.vegetables.cornell.edu/pest-management/disease-factsheets/"
+        },
+        {
+          "name": "University of Minnesota Extension – Plant diseases",
+          "url": "https://extension.umn.edu/plant-diseases"
+        }
+      ],
+      "information_confidence": "general"
+    },
+    "Raspberry___healthy": {
+      "common_name": "Healthy leaf",
+      "scientific_name": null,
+      "pathogen_type": "none",
+      "crop": "Raspberry",
+      "description": "The model found no visual pattern matching one of the raspberry diseases it was trained on. Healthy raspberry leaves are compound with toothed leaflets, green above and paler beneath.",
+      "symptoms": [
+        "Uniform leaf colour appropriate for the crop and leaf age",
+        "No spots, lesions, powdery coatings, mottling or distortion",
+        "No webbing, insect damage or scorched margins"
+      ],
+      "environmental_factors": [
+        "Good light, balanced nutrition and even watering keep foliage healthy",
+        "Overcrowding, prolonged leaf wetness and stress make plants more vulnerable to disease"
+      ],
+      "prevention": [
+        "Keep rows narrow and remove spent floricanes after fruiting",
+        "Buy certified virus-free plants",
+        "Ensure good drainage and airflow",
+        "Control weeds and wild brambles nearby"
+      ],
+      "next_steps": [
+        "Keep monitoring regularly; many diseases start on lower or inner leaves",
+        "Photograph both leaf surfaces if anything changes",
+        "Remember that a healthy-looking leaf does not guarantee the whole plant is disease-free"
+      ],
+      "references": [
+        {
+          "name": "Cornell University – Plant Disease Diagnostic Clinic / Vegetable MD Online",
+          "url": "https://www.vegetables.cornell.edu/pest-management/disease-factsheets/"
+        },
+        {
+          "name": "Michigan State University Extension",
+          "url": "https://www.canr.msu.edu/extension/"
+        }
+      ],
+      "information_confidence": "general"
+    },
+    "Soybean___healthy": {
+      "common_name": "Healthy leaf",
+      "scientific_name": null,
+      "pathogen_type": "none",
+      "crop": "Soybean",
+      "description": "The model found no visual pattern matching one of the soybean diseases it was trained on. Healthy soybean leaves are trifoliate, uniformly green and free of spots or mottling.",
+      "symptoms": [
+        "Uniform leaf colour appropriate for the crop and leaf age",
+        "No spots, lesions, powdery coatings, mottling or distortion",
+        "No webbing, insect damage or scorched margins"
+      ],
+      "environmental_factors": [
+        "Good light, balanced nutrition and even watering keep foliage healthy",
+        "Overcrowding, prolonged leaf wetness and stress make plants more vulnerable to disease"
+      ],
+      "prevention": [
+        "Rotate with non-legume crops",
+        "Use high-quality, treated seed",
+        "Scout for foliar diseases and insects from flowering onward",
+        "Maintain soil fertility and drainage"
+      ],
+      "next_steps": [
+        "Keep monitoring regularly; many diseases start on lower or inner leaves",
+        "Photograph both leaf surfaces if anything changes",
+        "Remember that a healthy-looking leaf does not guarantee the whole plant is disease-free"
+      ],
+      "references": [
+        {
+          "name": "Crop Protection Network (land-grant universities)",
+          "url": "https://cropprotectionnetwork.org/"
+        },
+        {
+          "name": "Iowa State University Extension – Integrated Crop Management",
+          "url": "https://crops.extension.iastate.edu/"
+        }
+      ],
+      "information_confidence": "general"
+    },
+    "Squash___Powdery_mildew": {
+      "common_name": "Powdery mildew of cucurbits",
+      "scientific_name": "Podosphaera xanthii (formerly Sphaerotheca fuliginea) and Golovinomyces cichoracearum",
+      "pathogen_type": "fungus",
+      "crop": "Squash",
+      "description": "Powdery mildew is the most common foliar disease of squash, pumpkin, melon and cucumber. It reduces photosynthesis, causes early leaf death and lowers fruit quality.",
+      "symptoms": [
+        "White, powdery spots on upper and lower leaf surfaces and on stems; spots enlarge and merge until leaves look dusted with flour",
+        "Older leaves are affected first; infected leaves yellow, then turn brown and dry up",
+        "Fruit are rarely infected directly but ripen poorly and may sunburn when leaves die"
+      ],
+      "environmental_factors": [
+        "Warm, dry days with humid nights; the fungus does not need free water on the leaf",
+        "Dense canopies and shade",
+        "Late-season plantings and high nitrogen"
+      ],
+      "prevention": [
+        "Grow cultivars with powdery mildew resistance or tolerance",
+        "Space plants well and avoid shade to keep humidity down",
+        "Scout older leaves weekly from mid-season; protectant and systemic fungicides are widely used but resistance management is important—follow extension guidance"
+      ],
+      "next_steps": [
+        "Check the undersides of older leaves, where it often starts",
+        "Consult extension for resistant cultivars and locally effective products"
+      ],
+      "references": [
+        {
+          "name": "Cornell University – Plant Disease Diagnostic Clinic / Vegetable MD Online",
+          "url": "https://www.vegetables.cornell.edu/pest-management/disease-factsheets/"
+        },
+        {
+          "name": "UC Statewide Integrated Pest Management Program (UC IPM)",
+          "url": "https://ipm.ucanr.edu/"
+        },
+        {
+          "name": "University of Minnesota Extension – Plant diseases",
+          "url": "https://extension.umn.edu/plant-diseases"
+        }
+      ],
+      "information_confidence": "well-documented"
+    },
+    "Strawberry___Leaf_scorch": {
+      "common_name": "Leaf scorch of strawberry",
+      "scientific_name": "Diplocarpon earlianum",
+      "pathogen_type": "fungus",
+      "crop": "Strawberry",
+      "description": "Leaf scorch is a common fungal leaf disease of strawberry. Severe infections weaken plants, reduce yields and increase winter injury.",
+      "symptoms": [
+        "Many small, irregular purple to dark-red spots on the upper leaf surface, without the pale centres seen in common leaf spot",
+        "Spots enlarge and merge; the leaf turns purple-brown and dries, looking scorched, and may curl at the edges",
+        "Petioles, runners and fruit stalks can also show lesions"
+      ],
+      "environmental_factors": [
+        "Warm, wet weather; spores are splashed by rain and overhead irrigation",
+        "The fungus overwinters on old infected leaves",
+        "Dense, weedy or matted beds that dry slowly"
+      ],
+      "prevention": [
+        "Plant resistant or tolerant cultivars",
+        "Renovate beds after harvest and remove old leaves",
+        "Keep rows narrow, control weeds and avoid overhead irrigation",
+        "Fungicides are used in commercial production during the growing season; follow local recommendations"
+      ],
+      "next_steps": [
+        "Distinguish from common leaf spot (which has grey or white centres) and leaf blight (large V-shaped lesions)",
+        "Consult an extension berry specialist if more than a few leaves are affected"
+      ],
+      "references": [
+        {
+          "name": "Cornell University – Plant Disease Diagnostic Clinic / Vegetable MD Online",
+          "url": "https://www.vegetables.cornell.edu/pest-management/disease-factsheets/"
+        },
+        {
+          "name": "Ohio State University Extension (Ohioline)",
+          "url": "https://ohioline.osu.edu/"
+        },
+        {
+          "name": "University of Minnesota Extension – Plant diseases",
+          "url": "https://extension.umn.edu/plant-diseases"
+        }
+      ],
+      "information_confidence": "well-documented"
+    },
+    "Strawberry___healthy": {
+      "common_name": "Healthy leaf",
+      "scientific_name": null,
+      "pathogen_type": "none",
+      "crop": "Strawberry",
+      "description": "The model found no visual pattern matching one of the strawberry diseases it was trained on. Healthy strawberry leaves are trifoliate, glossy green with toothed margins.",
+      "symptoms": [
+        "Uniform leaf colour appropriate for the crop and leaf age",
+        "No spots, lesions, powdery coatings, mottling or distortion",
+        "No webbing, insect damage or scorched margins"
+      ],
+      "environmental_factors": [
+        "Good light, balanced nutrition and even watering keep foliage healthy",
+        "Overcrowding, prolonged leaf wetness and stress make plants more vulnerable to disease"
+      ],
+      "prevention": [
+        "Renovate beds after harvest and remove old foliage",
+        "Use drip irrigation and straw mulch",
+        "Plant certified disease-free runners",
+        "Keep plant density moderate for airflow"
+      ],
+      "next_steps": [
+        "Keep monitoring regularly; many diseases start on lower or inner leaves",
+        "Photograph both leaf surfaces if anything changes",
+        "Remember that a healthy-looking leaf does not guarantee the whole plant is disease-free"
+      ],
+      "references": [
+        {
+          "name": "Cornell University – Plant Disease Diagnostic Clinic / Vegetable MD Online",
+          "url": "https://www.vegetables.cornell.edu/pest-management/disease-factsheets/"
+        },
+        {
+          "name": "Ohio State University Extension (Ohioline)",
+          "url": "https://ohioline.osu.edu/"
+        }
+      ],
+      "information_confidence": "general"
+    },
+    "Tomato___Bacterial_spot": {
+      "common_name": "Bacterial spot of tomato",
+      "scientific_name": "Xanthomonas euvesicatoria, X. vesicatoria, X. perforans, X. gardneri",
+      "pathogen_type": "bacterium",
+      "crop": "Tomato",
+      "description": "Bacterial spot causes leaf, stem and fruit lesions on tomato. It is introduced on seed or transplants and spreads rapidly by splashing water in warm, wet weather.",
+      "symptoms": [
+        "Small (under 3 mm), dark, water-soaked spots that may look greasy and often have a yellow halo",
+        "Spots can be angular; centres may dry and tear out; heavily spotted leaves yellow and drop",
+        "Fruit: small raised, scabby, brown spots"
+      ],
+      "environmental_factors": [
+        "Warm (24-30 °C), wet conditions and overhead irrigation",
+        "Infected seed, transplants and crop debris",
+        "Handling wet plants spreads bacteria along rows"
+      ],
+      "prevention": [
+        "Buy certified disease-free seed and transplants",
+        "Rotate away from tomato and pepper and destroy crop residue",
+        "Use drip irrigation, mulch and stake plants; avoid working in wet foliage",
+        "Copper-based protectants are used but resistance is common; ask extension for current advice"
+      ],
+      "next_steps": [
+        "Look for raised fruit spots and compare with bacterial speck (smaller spots) and Septoria (spots with light centres)",
+        "Lab confirmation is useful because management differs between bacterial and fungal spots"
+      ],
+      "references": [
+        {
+          "name": "Cornell University – Plant Disease Diagnostic Clinic / Vegetable MD Online",
+          "url": "https://www.vegetables.cornell.edu/pest-management/disease-factsheets/"
+        },
+        {
+          "name": "University of Florida IFAS Extension (EDIS)",
+          "url": "https://edis.ifas.ufl.edu/"
+        },
+        {
+          "name": "UC Statewide Integrated Pest Management Program (UC IPM)",
+          "url": "https://ipm.ucanr.edu/"
+        }
+      ],
+      "information_confidence": "well-documented"
+    },
+    "Tomato___Early_blight": {
+      "common_name": "Early blight",
+      "scientific_name": "Alternaria linariae (A. tomatophila) and A. solani",
+      "pathogen_type": "fungus",
+      "crop": "Tomato",
+      "description": "Early blight is one of the most common tomato diseases. It causes target-like leaf spots, stem lesions and fruit rot near the stem end, and is worst on stressed or heavily fruiting plants.",
+      "symptoms": [
+        "Brown spots with concentric rings ('target' pattern) and a yellow halo, starting on the oldest leaves",
+        "Lower leaves yellow, wither and drop, progressing up the plant",
+        "Dark, sunken lesions on stems and at the stem end of fruit"
+      ],
+      "environmental_factors": [
+        "Warm, humid weather with alternating wet and dry periods",
+        "The fungus survives in soil and debris and on related weeds",
+        "Plants stressed by poor nutrition, drought or heavy fruit load"
+      ],
+      "prevention": [
+        "Rotate with non-solanaceous crops and remove debris",
+        "Mulch, stake or cage plants and remove lower infected leaves early",
+        "Water at the base; avoid wetting foliage",
+        "Resistant or tolerant cultivars and protectant fungicides are available; follow local guidance"
+      ],
+      "next_steps": [
+        "Remove and bag the worst-affected lower leaves",
+        "Monitor weekly; consult extension if the disease moves above the lower third of the plant"
+      ],
+      "references": [
+        {
+          "name": "Cornell University – Plant Disease Diagnostic Clinic / Vegetable MD Online",
+          "url": "https://www.vegetables.cornell.edu/pest-management/disease-factsheets/"
+        },
+        {
+          "name": "University of Minnesota Extension – Plant diseases",
+          "url": "https://extension.umn.edu/plant-diseases"
+        },
+        {
+          "name": "UC Statewide Integrated Pest Management Program (UC IPM)",
+          "url": "https://ipm.ucanr.edu/"
+        }
+      ],
+      "information_confidence": "well-documented"
+    },
+    "Tomato___Late_blight": {
+      "common_name": "Late blight",
+      "scientific_name": "Phytophthora infestans",
+      "pathogen_type": "oomycete (water mould)",
+      "crop": "Tomato",
+      "description": "Late blight can kill tomato plants within days in cool, wet weather and spreads to neighbouring gardens and farms. It is considered a community disease.",
+      "symptoms": [
+        "Large, irregular, greasy-looking grey-green to brown lesions on leaves, often starting at the edges",
+        "White, fuzzy growth on the underside of lesions in humid weather",
+        "Dark brown lesions on stems and firm, brown, greasy blotches on green or ripe fruit"
+      ],
+      "environmental_factors": [
+        "Cool (10-25 °C), wet and humid weather",
+        "Spores blow in from infected potato or tomato crops; infected transplants and potato cull piles are sources",
+        "Overhead irrigation and dense foliage"
+      ],
+      "prevention": [
+        "Use resistant cultivars where available and buy healthy transplants",
+        "Space and stake plants; avoid overhead watering",
+        "Follow regional late blight alerts; protectant fungicides are the main commercial tool",
+        "Remove and bag infected plants immediately in gardens"
+      ],
+      "next_steps": [
+        "Treat as urgent: confirm with extension or a diagnostic lab the same day",
+        "Tell nearby growers if confirmed; do not compost infected material"
+      ],
+      "references": [
+        {
+          "name": "Cornell University – Plant Disease Diagnostic Clinic / Vegetable MD Online",
+          "url": "https://www.vegetables.cornell.edu/pest-management/disease-factsheets/"
+        },
+        {
+          "name": "University of Minnesota Extension – Plant diseases",
+          "url": "https://extension.umn.edu/plant-diseases"
+        },
+        {
+          "name": "UC Statewide Integrated Pest Management Program (UC IPM)",
+          "url": "https://ipm.ucanr.edu/"
+        }
+      ],
+      "information_confidence": "well-documented"
+    },
+    "Tomato___Leaf_Mold": {
+      "common_name": "Leaf mold",
+      "scientific_name": "Passalora fulva (syn. Fulvia fulva, Cladosporium fulvum)",
+      "pathogen_type": "fungus",
+      "crop": "Tomato",
+      "description": "Leaf mold is primarily a disease of greenhouse and high-tunnel tomatoes, where humidity stays high. It rarely matters in dry, well-ventilated conditions.",
+      "symptoms": [
+        "Pale green or yellowish spots on the upper leaf surface with indistinct edges",
+        "Olive-green to brown, velvety mould on the corresponding underside",
+        "Leaves yellow, curl and drop, starting with the oldest"
+      ],
+      "environmental_factors": [
+        "Relative humidity above about 85% for extended periods",
+        "Poor ventilation in greenhouses and tunnels; mild temperatures",
+        "The fungus survives on debris and as spores on structures"
+      ],
+      "prevention": [
+        "Ventilate and heat to keep humidity down; space plants and prune lower leaves",
+        "Water early in the day at the base of plants",
+        "Grow cultivars with leaf mold resistance (Cf genes), noting that resistance can be overcome by new races",
+        "Sanitise the structure between crops"
+      ],
+      "next_steps": [
+        "Check leaf undersides for velvety mould to confirm",
+        "Improve ventilation immediately; consult extension for resistant cultivars"
+      ],
+      "references": [
+        {
+          "name": "Cornell University – Plant Disease Diagnostic Clinic / Vegetable MD Online",
+          "url": "https://www.vegetables.cornell.edu/pest-management/disease-factsheets/"
+        },
+        {
+          "name": "University of Minnesota Extension – Plant diseases",
+          "url": "https://extension.umn.edu/plant-diseases"
+        },
+        {
+          "name": "Penn State Extension – Plant disease fact sheets",
+          "url": "https://extension.psu.edu/"
+        }
+      ],
+      "information_confidence": "well-documented"
+    },
+    "Tomato___Septoria_leaf_spot": {
+      "common_name": "Septoria leaf spot",
+      "scientific_name": "Septoria lycopersici",
+      "pathogen_type": "fungus",
+      "crop": "Tomato",
+      "description": "Septoria leaf spot is a very common foliar disease that defoliates tomato plants from the bottom up, exposing fruit to sunscald and reducing yield.",
+      "symptoms": [
+        "Many small (1-3 mm), circular spots with dark brown margins and tan or grey centres",
+        "Tiny black dots (pycnidia) visible in the centre of older spots with a hand lens",
+        "Starts on lower leaves after the first fruit set; leaves yellow, brown and drop"
+      ],
+      "environmental_factors": [
+        "Warm (20-25 °C), wet, humid weather; splashing rain spreads spores",
+        "Infected debris, volunteer tomatoes and solanaceous weeds",
+        "Overhead irrigation and crowded plantings"
+      ],
+      "prevention": [
+        "Rotate for 2-3 years and remove crop debris",
+        "Mulch and stake plants; remove the lowest leaves once plants are established",
+        "Avoid overhead irrigation and working in wet foliage",
+        "Protectant fungicides are commonly used from first symptoms; follow local guidance"
+      ],
+      "next_steps": [
+        "Remove infected lower leaves and bag them",
+        "Consult extension if spots appear before fruit set or spread rapidly"
+      ],
+      "references": [
+        {
+          "name": "Cornell University – Plant Disease Diagnostic Clinic / Vegetable MD Online",
+          "url": "https://www.vegetables.cornell.edu/pest-management/disease-factsheets/"
+        },
+        {
+          "name": "University of Minnesota Extension – Plant diseases",
+          "url": "https://extension.umn.edu/plant-diseases"
+        },
+        {
+          "name": "Penn State Extension – Plant disease fact sheets",
+          "url": "https://extension.psu.edu/"
+        }
+      ],
+      "information_confidence": "well-documented"
+    },
+    "Tomato___Spider_mites Two-spotted_spider_mite": {
+      "common_name": "Two-spotted spider mite damage",
+      "scientific_name": "Tetranychus urticae",
+      "pathogen_type": "pest (mite), not a pathogen",
+      "crop": "Tomato",
+      "description": "Two-spotted spider mites are tiny arachnids that feed on leaf cells. Damage looks like a disease but is caused by thousands of feeding punctures; hot, dry weather and some insecticides make outbreaks worse.",
+      "symptoms": [
+        "Fine yellow or white stippling (speckles) on the upper leaf surface",
+        "Leaves turn bronze or yellow and dry out; fine webbing on the undersides and between leaves in heavy infestations",
+        "Tiny moving dots (mites) visible on the underside with a hand lens"
+      ],
+      "environmental_factors": [
+        "Hot, dry, dusty conditions",
+        "Water-stressed plants",
+        "Use of broad-spectrum insecticides that kill the mites' natural enemies"
+      ],
+      "prevention": [
+        "Keep plants well watered and reduce dust",
+        "Conserve natural enemies (predatory mites, lady beetles); avoid unnecessary broad-spectrum insecticides",
+        "Spraying leaf undersides with water can suppress light infestations",
+        "Horticultural oils, soaps and miticides are options; rotate modes of action and follow labels"
+      ],
+      "next_steps": [
+        "Tap a leaf over white paper to see moving mites and confirm",
+        "Consult extension or an IPM guide for biological control options"
+      ],
+      "references": [
+        {
+          "name": "UC Statewide Integrated Pest Management Program (UC IPM)",
+          "url": "https://ipm.ucanr.edu/"
+        },
+        {
+          "name": "University of Minnesota Extension – Plant diseases",
+          "url": "https://extension.umn.edu/plant-diseases"
+        },
+        {
+          "name": "Cornell University – Plant Disease Diagnostic Clinic / Vegetable MD Online",
+          "url": "https://www.vegetables.cornell.edu/pest-management/disease-factsheets/"
+        }
+      ],
+      "information_confidence": "well-documented"
+    },
+    "Tomato___Target_Spot": {
+      "common_name": "Target spot",
+      "scientific_name": "Corynespora cassiicola",
+      "pathogen_type": "fungus",
+      "crop": "Tomato",
+      "description": "Target spot is a fungal disease of tomato foliage and fruit that is most important in warm, humid production regions. It is easily confused with early blight.",
+      "symptoms": [
+        "Small brown lesions that enlarge into spots with concentric rings and a yellow margin on leaves",
+        "Spots can appear throughout the canopy rather than only on lower leaves",
+        "Sunken, brown, pitted lesions on fruit, sometimes with concentric rings"
+      ],
+      "environmental_factors": [
+        "Warm temperatures with high humidity and long leaf-wetness periods",
+        "Dense canopies; the fungus has a very wide host range including weeds and other crops",
+        "Survives on crop debris"
+      ],
+      "prevention": [
+        "Rotate and remove debris; control weeds that can host the fungus",
+        "Space and stake plants for airflow; avoid overhead irrigation",
+        "Protectant fungicides are used commercially; follow regional guidance"
+      ],
+      "next_steps": [
+        "Look for fruit lesions and mid-canopy spots to help distinguish from early blight",
+        "Laboratory confirmation is recommended because management timing differs"
+      ],
+      "references": [
+        {
+          "name": "University of Florida IFAS Extension (EDIS)",
+          "url": "https://edis.ifas.ufl.edu/"
+        },
+        {
+          "name": "Cornell University – Plant Disease Diagnostic Clinic / Vegetable MD Online",
+          "url": "https://www.vegetables.cornell.edu/pest-management/disease-factsheets/"
+        },
+        {
+          "name": "American Phytopathological Society – Plant Disease lessons and compendia",
+          "url": "https://www.apsnet.org/edcenter/"
+        }
+      ],
+      "information_confidence": "well-documented"
+    },
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+      "common_name": "Tomato yellow leaf curl",
+      "scientific_name": "Tomato yellow leaf curl virus (TYLCV, genus Begomovirus)",
+      "pathogen_type": "virus, spread by the whitefly Bemisia tabaci",
+      "crop": "Tomato",
+      "description": "TYLCV is transmitted by the silverleaf/sweetpotato whitefly. Plants infected young are severely stunted and produce little or no fruit. There is no cure once a plant is infected.",
+      "symptoms": [
+        "Leaves curl upward and inward, become small, thick and crumpled, with yellowing along the edges and between veins",
+        "Plants are stunted and bushy; flowers drop and fruit set is poor",
+        "Symptoms are strongest on new growth"
+      ],
+      "environmental_factors": [
+        "High whitefly populations, especially in warm regions and greenhouses",
+        "Nearby infected tomato crops, weeds or volunteer plants",
+        "Transplants produced in infested nurseries"
+      ],
+      "prevention": [
+        "Grow cultivars with TYLCV resistance or tolerance (Ty genes)",
+        "Use whitefly-free transplants and insect-exclusion netting or reflective mulches",
+        "Remove infected plants promptly and manage whiteflies on surrounding weeds",
+        "Observe host-free periods where regional programmes exist"
+      ],
+      "next_steps": [
+        "Check leaf undersides for whiteflies",
+        "Confirm by laboratory testing; symptoms resemble other viruses and herbicide injury",
+        "Remove confirmed plants to protect the rest of the crop"
+      ],
+      "references": [
+        {
+          "name": "University of Florida IFAS Extension (EDIS)",
+          "url": "https://edis.ifas.ufl.edu/"
+        },
+        {
+          "name": "UC Statewide Integrated Pest Management Program (UC IPM)",
+          "url": "https://ipm.ucanr.edu/"
+        },
+        {
+          "name": "Cornell University – Plant Disease Diagnostic Clinic / Vegetable MD Online",
+          "url": "https://www.vegetables.cornell.edu/pest-management/disease-factsheets/"
+        }
+      ],
+      "information_confidence": "well-documented"
+    },
+    "Tomato___Tomato_mosaic_virus": {
+      "common_name": "Tomato mosaic",
+      "scientific_name": "Tomato mosaic virus (ToMV, genus Tobamovirus)",
+      "pathogen_type": "virus (mechanically transmitted, seed-borne)",
+      "crop": "Tomato",
+      "description": "ToMV is an extremely stable virus spread on hands, tools and seed rather than by insects. It is closely related to tobacco mosaic virus and survives for long periods in debris and on surfaces.",
+      "symptoms": [
+        "Light and dark green mottling (mosaic) of leaves",
+        "Leaves may be distorted, narrowed or fern-like; plants can be stunted",
+        "Fruit may show mottling, uneven ripening or internal browning"
+      ],
+      "environmental_factors": [
+        "Handling plants after touching infected plants, tools or tobacco products",
+        "Infected seed and crop debris; the virus survives for years in dry material",
+        "Greenhouse crops with intensive handling"
+      ],
+      "prevention": [
+        "Use resistant cultivars (Tm-2² gene) and clean, certified seed",
+        "Wash hands and disinfect tools before handling plants; do not use tobacco around tomatoes",
+        "Remove and bag infected plants and debris; do not compost",
+        "Avoid growing tomatoes in soil where infected debris remains"
+      ],
+      "next_steps": [
+        "Confirm with a diagnostic laboratory; mosaic symptoms can resemble herbicide damage or nutrient problems",
+        "Remove infected plants and sanitise everything that touched them"
+      ],
+      "references": [
+        {
+          "name": "Cornell University – Plant Disease Diagnostic Clinic / Vegetable MD Online",
+          "url": "https://www.vegetables.cornell.edu/pest-management/disease-factsheets/"
+        },
+        {
+          "name": "UC Statewide Integrated Pest Management Program (UC IPM)",
+          "url": "https://ipm.ucanr.edu/"
+        },
+        {
+          "name": "Royal Horticultural Society – Plant problems",
+          "url": "https://www.rhs.org.uk/problems"
+        }
+      ],
+      "information_confidence": "well-documented"
+    },
+    "Tomato___healthy": {
+      "common_name": "Healthy leaf",
+      "scientific_name": null,
+      "pathogen_type": "none",
+      "crop": "Tomato",
+      "description": "The model found no visual pattern matching one of the tomato diseases it was trained on. Healthy tomato leaves are compound, mid to dark green, slightly fuzzy and free of spots or curling.",
+      "symptoms": [
+        "Uniform leaf colour appropriate for the crop and leaf age",
+        "No spots, lesions, powdery coatings, mottling or distortion",
+        "No webbing, insect damage or scorched margins"
+      ],
+      "environmental_factors": [
+        "Good light, balanced nutrition and even watering keep foliage healthy",
+        "Overcrowding, prolonged leaf wetness and stress make plants more vulnerable to disease"
+      ],
+      "prevention": [
+        "Rotate with non-solanaceous crops and clean up debris",
+        "Stake or cage plants and remove the lowest leaves",
+        "Water at the base and mulch to reduce splash",
+        "Start with disease-free seed and transplants"
+      ],
+      "next_steps": [
+        "Keep monitoring regularly; many diseases start on lower or inner leaves",
+        "Photograph both leaf surfaces if anything changes",
+        "Remember that a healthy-looking leaf does not guarantee the whole plant is disease-free"
+      ],
+      "references": [
+        {
+          "name": "Cornell University – Plant Disease Diagnostic Clinic / Vegetable MD Online",
+          "url": "https://www.vegetables.cornell.edu/pest-management/disease-factsheets/"
+        },
+        {
+          "name": "University of Minnesota Extension – Plant diseases",
+          "url": "https://extension.umn.edu/plant-diseases"
+        }
+      ],
+      "information_confidence": "general"
+    }
+  }
+}

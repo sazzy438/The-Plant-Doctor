@@ -1,0 +1,72 @@
+{
+  "started_utc": "2026-11-16T10:57:17.377471+00:00",
+  "args": {
+    "data_root": "/home/user/datasets/plantvillage",
+    "splits_dir": null,
+    "leaf_map": null,
+    "manifest_dir": "/home/user/plant-doctor/artifacts/splits",
+    "artifacts_dir": "/home/user/plant-doctor/artifacts",
+    "epochs": 4,
+    "batch_size": 64,
+    "lr": 0.0003,
+    "weight_decay": 0.01,
+    "label_smoothing": 0.1,
+    "warmup_steps": 300,
+    "patience": 2,
+    "val_fraction": 0.1,
+    "seed": 42,
+    "workers": 2,
+    "subset": null,
+    "max_train_minutes": 330.0,
+    "resume": false,
+    "log_every": 25
+  },
+  "device": "cpu",
+  "torch": "2.15.0+cpu",
+  "train_images": 39207,
+  "val_images": 4389,
+  "num_classes": 38,
+  "steps_per_epoch": 612,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 1.2910122454555986,
+      "train_accuracy": 0.8289675245098039,
+      "val_loss": 0.741632905099299,
+      "val_accuracy": 0.9822282980177717,
+      "val_macro_f1": 0.9793816614250938,
+      "epoch_minutes": 33.30305987596512,
+      "lr_end": 0.00027983248167521364
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.7374614593055513,
+      "train_accuracy": 0.9863153594771242,
+      "val_loss": 0.7018449048730881,
+      "val_accuracy": 0.9933925723399407,
+      "val_macro_f1": 0.9918823413451496,
+      "epoch_minutes": 31.13434173266093,
+      "lr_end": 0.00017595363810206748
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.7093353650343963,
+      "train_accuracy": 0.994000204248366,
+      "val_loss": 0.6922800540652463,
+      "val_accuracy": 0.9963545226703121,
+      "val_macro_f1": 0.9948073367227162,
+      "epoch_minutes": 31.26642675002416,
+      "lr_end": 5.35454659316373e-05
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.6995284390800139,
+      "train_accuracy": 0.9958384395424836,
+      "val_loss": 0.6896573897102314,
+      "val_accuracy": 0.9974937343358395,
+      "val_macro_f1": 0.9954342388483313,
+      "epoch_minutes": 30.136857159932454,
+      "lr_end": 0.0
+    }
+  ]
+}

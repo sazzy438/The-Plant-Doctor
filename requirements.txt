@@ -1,0 +1,13 @@
+# Plant Doctor — runtime and training dependencies.
+# CPU-only PyTorch wheels keep the install small; see README for the GPU variant.
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch>=2.4,<3
+torchvision>=0.19,<1
+gradio>=6.0,<7
+numpy>=1.26
+pillow>=10.0
+scipy>=1.11
+scikit-learn>=1.4
+matplotlib>=3.8
+reportlab>=4.0
+pytest>=8.0
